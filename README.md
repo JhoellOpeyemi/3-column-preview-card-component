@@ -6,15 +6,12 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox-SVF4p_oXK]](https://your-solution-url.com)
+- Live Site URL: [https://jhoellopeyemi.github.io/3-column-preview-card-component/](https://your-live-site-url.com)
 
 ## My process
 
@@ -44,7 +41,7 @@ I learnt more about CSS pseudo classes
 
 ### Useful resources
 
-- [Pseudo Classes](https://www.w3schools.com/css/css_pseudo_classes.asp) - This helped me in learning more pseudo classes.
+- [https://www.w3schools.com/css/css_pseudo_classes.asp](Pseudo Classes) - This helped me in learning more pseudo classes.
 
 ## Author
 
