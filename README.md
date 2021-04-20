@@ -24,7 +24,11 @@ Users should be able to:
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [[https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox-SVF4p_oXK]](https://your-solution-url.com)
+=======
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+>>>>>>> d79e04dda6304e7d8537a4618b19147a0fdcee44
 - Live Site URL: [https://jhoellopeyemi.github.io/3-column-preview-card-component/](https://your-live-site-url.com)
 
 ## My process
