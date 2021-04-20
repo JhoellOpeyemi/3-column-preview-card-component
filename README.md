@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox-SVF4p_oXK](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox-SVF4p_oXK
 
-- Live Site URL: [https://jhoellopeyemi.github.io/3-column-preview-card-component/](https://your-live-site-url.com)
+- Live Site URL: https://jhoellopeyemi.github.io/3-column-preview-card-component/
 
 ## My process
 
@@ -42,7 +42,7 @@ I learnt more about CSS pseudo classes
 
 ### Useful resources
 
-- [https://www.w3schools.com/css/css_pseudo_classes.asp](Pseudo Classes) - This helped me in learning more pseudo classes.
+- https://www.w3schools.com/css/css_pseudo_classes.asp - This helped me in learning more pseudo classes.
 
 ## Author
 
